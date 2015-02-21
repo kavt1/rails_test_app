@@ -1,0 +1,33 @@
+// Place all the styles related to the CoachingController controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.conversation-box {
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 25px;
+  width: 200px;
+  border: solid 1px #F0F0F0;
+  border-radius: 3px;
+
+}
+.saying {
+  font-size: 16px;
+  color: #0F0F0F;
+  text-align: center;
+}
+
+.who {
+  font-size: 14px;
+  color: #C0C0C0;
+  text-align: center;
+}
+
+.footer {
+  padding-top: 20px;
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
