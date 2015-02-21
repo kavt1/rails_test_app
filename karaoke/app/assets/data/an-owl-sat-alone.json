@@ -1,0 +1,50 @@
+// http://singwithourkids.com/songs/an-owl-sat-alone.htm
+
+// An owl sat alone on the branch of a tree
+
+// And she was as quiet as quiet could be
+// Twas night and her eyes were wide open like this
+
+// She looked all around, not a thing did she miss
+// Some little birds perched on the branch of the tree
+
+// And they were as quiet as quiet could be
+// The solemn old owl said, "Whoo-whoo-whoo"
+// And up jumped the birds and away they all flew
+
+{
+  "title": "An Owl Sat Alone",
+  "subtitle": "on the Branch of a Tree",
+  "author": "No provided",
+  "image_file_name": "owl-song.png",
+  "audio_url": "https://dl.dropboxusercontent.com/u/26873847/an-owl-sat-alone.mp3"
+  "lyrics:" [
+    {
+      "line": "An owl sat alone on the branch of a tree",
+      "line_break": true
+    },
+    {
+      "line": "And she was as quiet as quiet could be"
+    },
+    {
+      "line": "Twas night and her eyes were wide open like this",
+      "line_break": true
+    },
+    {
+      "line": "She looked all around, not a thing did she miss"
+    },
+    {
+      "line": "Some little birds perched on the branch of the tree",
+      "line_break": true
+    },
+    {
+      "line": "And they were as quiet as quiet could be"
+    },
+    {
+      "line": "The solemn old owl said, Whoo-whoo-whoo"
+    },
+    {
+      "line": "And up jumped the birds and away they all flew"
+    }
+  ]
+}

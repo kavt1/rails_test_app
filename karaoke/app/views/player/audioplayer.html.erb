@@ -1,0 +1,58 @@
+<div class="page-header">
+  <h1> <%= @title %><small> <% if !@subtitle.nil? %> (<%= @subtitle %>) <% end %></small></h1>
+</div>
+
+<div class="jumbotron">
+
+  <% if !@image_file_name.nil? %>
+    <div class='image'>
+      <%= image_tag(@image_file_name) %>
+    </div>
+  <% end %>
+  <audio id='media_player' src='<%= @audio_url %>' controls class='audio_control'></audio>
+  <div class='lyrics_box'>
+    <% @lyrics.each do |line| %>
+      <% if line['words'] %>
+        <% line_text = line['text'] %>
+        <% line['words'].each do |word|
+          translation = word['translation']
+          text = word['text']
+          id = word['id']
+          start = word['time_start']
+          replace = '<span class=\'word\' id=\'' + id + '\''
+          if start
+            replace << ' data-start=\'' + start.to_s + '\''
+          end
+          if translation
+            replace << ' data-toggle=\'popover\' data-trigger=\'focus\' title=\'Translation\' data-content=\'' + translation + '\''
+          end
+          replace << '>' +  text + '</span>'
+          line_text.gsub!(text, replace)
+          end %>
+        <p> <%= line_text.html_safe %> </p>
+      <% else %>
+        <p> <%= line['text'] %> </p>
+      <% end %>
+      <% if line['line_break'] %>
+        <br>
+      <% end %>
+    <% end %>
+  </div>
+  <div class='row text-center navigation'>
+    <div class="btn-group">
+      <a class="btn btn-primary btn-lg" id='start' href="#" role="button">Start</a>
+      <a class="btn btn-primary btn-lg" id='pause' href="#" role="button">Pause</a>
+      <a class="btn btn-primary btn-lg" id='play' href="#" role="button">Play</a>
+    </div>
+  </div>
+</div>
+
+<%= javascript_tag do %>
+  var wordsTransition = <%= @transitions.to_json.html_safe %>;
+<% end %>
+
+<%= javascript_tag do %>
+  var linesTransition = {};
+<% end %>
+
+

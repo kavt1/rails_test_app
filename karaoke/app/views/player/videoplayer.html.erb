@@ -1,0 +1,49 @@
+<div class="page-header">
+  <h1> <%= @title %><small> <% if !@subtitle.nil? %> (<%= @subtitle %>) <% end %></small></h1>
+</div>
+
+<div class='row text-center'>
+  <div class='media_container'>
+  <% if @media_type == 0 %>
+    <audio id='media_player' src=<%= @media_url %> controls class='audio_control'></audio>
+  <% else %>
+    <video id='media_player' width="500" src=<%= @media_url %>  class='video_control'></video>
+  <% end %>
+  </div>
+</div>
+<div class='row text-center'>
+  <div class='text_container col-xs-12 col-md-4 col-md-offset-4'>
+    <div class="list-group" id='line_list'>
+      <% @lyrics.each do |line|
+        text = line['text']
+        start_time = line['time_start']
+        id = line['id']
+        html = '<a class=\'line list-group-item\' id=\'' + id + '\''
+        if start_time
+          html << ' data-start=\'' + start_time.to_s + '\''
+        end
+        html << ' >' + text + '</a>'
+        %>
+        <%= html.html_safe %>
+        <% if line['line_break'] %>
+          <br>
+        <% end %>
+      <% end %>
+    </div>
+  </div>
+</div>
+<div class='row text-center'>
+  <div class='btn-group'>
+    <a class='btn btn-primary btn-lg' id='start' href="#" role='button'>Start</a>
+    <a class='btn btn-primary btn-lg' id='pause' href="#" role='button'>Pause</a>
+    <a class='btn btn-primary btn-lg' id='play' href="#" role='button'>Play</a>
+  </div>
+</div>
+
+<%= javascript_tag do %>
+  var wordsTransition = {};
+<% end %>
+
+<%= javascript_tag do %>
+  var linesTransition = <%= @transitions.to_json.html_safe %>;
+<% end %>
