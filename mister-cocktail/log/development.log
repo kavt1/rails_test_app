@@ -55176,3 +55176,178 @@ Processing by CocktailsController#index as HTML
   Rendered cocktails/_list_cocktails.html.erb (4.0ms)
   Rendered cocktails/index.html.erb within layouts/application (23.4ms)
 Completed 200 OK in 344ms (Views: 342.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for ::1 at 2015-02-21 18:05:46 +0100
+  [1m[36mActiveRecord::SchemaMigration Load (0.7ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by CocktailsController#index as HTML
+  [1m[35mCocktail Load (16.8ms)[0m  SELECT "cocktails".* FROM "cocktails"
+  Rendered cocktails/_list_cocktails.html.erb (35.0ms)
+  Rendered cocktails/index.html.erb within layouts/application (58.3ms)
+Completed 200 OK in 1193ms (Views: 1103.9ms | ActiveRecord: 25.8ms)
+
+
+Started GET "/cocktails/10/doses/new" for ::1 at 2015-02-21 18:05:52 +0100
+Processing by DosesController#new as HTML
+  Parameters: {"cocktail_id"=>"10"}
+  [1m[36mCocktail Load (0.3ms)[0m  [1mSELECT  "cocktails".* FROM "cocktails" WHERE "cocktails"."id" = $1 LIMIT 1[0m  [["id", 10]]
+  [1m[35mIngredient Load (0.8ms)[0m  SELECT "ingredients".* FROM "ingredients"
+  Rendered doses/_form_dose.html.erb (90.3ms)
+  Rendered doses/new.html.erb within layouts/application (99.8ms)
+Completed 200 OK in 535ms (Views: 421.9ms | ActiveRecord: 4.3ms)
+
+
+Started GET "/" for ::1 at 2015-02-21 18:05:54 +0100
+Processing by CocktailsController#index as HTML
+  [1m[36mCocktail Load (0.4ms)[0m  [1mSELECT "cocktails".* FROM "cocktails"[0m
+  Rendered cocktails/_list_cocktails.html.erb (4.2ms)
+  Rendered cocktails/index.html.erb within layouts/application (19.6ms)
+Completed 200 OK in 330ms (Views: 323.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/cocktails/10" for ::1 at 2015-02-21 18:05:55 +0100
+Processing by CocktailsController#show as HTML
+  Parameters: {"id"=>"10"}
+  [1m[35mCocktail Load (0.4ms)[0m  SELECT  "cocktails".* FROM "cocktails" WHERE "cocktails"."id" = $1 LIMIT 1  [["id", 10]]
+  [1m[36mDose Load (0.7ms)[0m  [1mSELECT "doses".* FROM "doses" WHERE "doses"."cocktail_id" = $1[0m  [["cocktail_id", 10]]
+  [1m[35mIngredient Load (0.2ms)[0m  SELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1  [["id", 6]]
+  [1m[36mIngredient Load (0.5ms)[0m  [1mSELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1[0m  [["id", 5]]
+  [1m[35mIngredient Load (0.3ms)[0m  SELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1  [["id", 9]]
+  [1m[36mIngredient Load (0.2ms)[0m  [1mSELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1[0m  [["id", 15]]
+  Rendered cocktails/_list_ingredients.html.erb (75.3ms)
+  Rendered cocktails/show.html.erb within layouts/application (95.6ms)
+Completed 200 OK in 522ms (Views: 516.7ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/" for ::1 at 2015-02-21 18:05:58 +0100
+Processing by CocktailsController#index as HTML
+  [1m[35mCocktail Load (0.4ms)[0m  SELECT "cocktails".* FROM "cocktails"
+  Rendered cocktails/_list_cocktails.html.erb (4.0ms)
+  Rendered cocktails/index.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 347ms (Views: 345.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/cocktails/new" for ::1 at 2015-02-21 18:06:01 +0100
+Processing by CocktailsController#new as HTML
+  Rendered cocktails/_form_cocktail.html.erb (2.1ms)
+  Rendered cocktails/new.html.erb within layouts/application (21.2ms)
+Completed 200 OK in 320ms (Views: 318.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-21 18:06:02 +0100
+Processing by CocktailsController#index as HTML
+  [1m[36mCocktail Load (0.6ms)[0m  [1mSELECT "cocktails".* FROM "cocktails"[0m
+  Rendered cocktails/_list_cocktails.html.erb (3.7ms)
+  Rendered cocktails/index.html.erb within layouts/application (21.5ms)
+Completed 200 OK in 398ms (Views: 395.2ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/cocktails/10" for ::1 at 2015-02-21 18:06:07 +0100
+Processing by CocktailsController#show as HTML
+  Parameters: {"id"=>"10"}
+  [1m[35mCocktail Load (2.7ms)[0m  SELECT  "cocktails".* FROM "cocktails" WHERE "cocktails"."id" = $1 LIMIT 1  [["id", 10]]
+  [1m[36mDose Load (0.4ms)[0m  [1mSELECT "doses".* FROM "doses" WHERE "doses"."cocktail_id" = $1[0m  [["cocktail_id", 10]]
+  [1m[35mIngredient Load (0.4ms)[0m  SELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1  [["id", 6]]
+  [1m[36mIngredient Load (0.3ms)[0m  [1mSELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1[0m  [["id", 5]]
+  [1m[35mIngredient Load (0.3ms)[0m  SELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1  [["id", 9]]
+  [1m[36mIngredient Load (2.1ms)[0m  [1mSELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1[0m  [["id", 15]]
+  Rendered cocktails/_list_ingredients.html.erb (13.5ms)
+  Rendered cocktails/show.html.erb within layouts/application (19.3ms)
+Completed 200 OK in 378ms (Views: 369.2ms | ActiveRecord: 6.2ms)
+
+
+Started GET "/cocktails/10%20%3E%20%20%20%20%20%20%20%20%3Cspan%20class=/doses/new" for ::1 at 2015-02-21 18:06:09 +0100
+Processing by DosesController#new as HTML
+  Parameters: {"cocktail_id"=>"10 >        <span class="}
+  [1m[35mCocktail Load (0.5ms)[0m  SELECT  "cocktails".* FROM "cocktails" WHERE "cocktails"."id" = $1 LIMIT 1  [["id", 10]]
+  [1m[36mIngredient Load (0.6ms)[0m  [1mSELECT "ingredients".* FROM "ingredients"[0m
+  Rendered doses/_form_dose.html.erb (18.8ms)
+  Rendered doses/new.html.erb within layouts/application (24.3ms)
+Completed 200 OK in 360ms (Views: 356.0ms | ActiveRecord: 1.1ms)
+
+
+Started POST "/cocktails/10/doses" for ::1 at 2015-02-21 18:06:18 +0100
+Processing by DosesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"06vqmJb6vyQdIS3BzJ56LlCCVrmq1WHmXP24xk4KQ+CODVHLmVVCNyPDonQetRDThfE0kOecC3rZIhlAt8dyfg==", "dose"=>{"ingredient_id"=>"4", "description"=>"10 cl."}, "cocktail_id"=>"10"}
+  [1m[35mCocktail Load (0.8ms)[0m  SELECT  "cocktails".* FROM "cocktails" WHERE "cocktails"."id" = $1 LIMIT 1  [["id", 10]]
+  [1m[36m (32.4ms)[0m  [1mBEGIN[0m
+  [1m[35mIngredient Load (0.3ms)[0m  SELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1  [["id", 4]]
+  [1m[36mDose Exists (21.5ms)[0m  [1mSELECT  1 AS one FROM "doses" WHERE ("doses"."ingredient_id" = 4 AND "doses"."cocktail_id" = 10) LIMIT 1[0m
+  [1m[35mSQL (43.9ms)[0m  INSERT INTO "doses" ("description", "ingredient_id", "cocktail_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"  [["description", "10 cl."], ["ingredient_id", 4], ["cocktail_id", 10], ["created_at", "2015-02-21 17:06:18.690019"], ["updated_at", "2015-02-21 17:06:18.690019"]]
+  [1m[36m (54.2ms)[0m  [1mCOMMIT[0m
+Redirected to http://localhost:3000/cocktails
+Completed 302 Found in 241ms (ActiveRecord: 153.0ms)
+
+
+Started GET "/cocktails" for ::1 at 2015-02-21 18:06:18 +0100
+Processing by CocktailsController#index as HTML
+  [1m[35mCocktail Load (0.6ms)[0m  SELECT "cocktails".* FROM "cocktails"
+  Rendered cocktails/_list_cocktails.html.erb (3.5ms)
+  Rendered cocktails/index.html.erb within layouts/application (10.9ms)
+Completed 200 OK in 335ms (Views: 332.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/cocktails/10/edit" for ::1 at 2015-02-21 18:06:20 +0100
+Processing by CocktailsController#edit as HTML
+  Parameters: {"id"=>"10"}
+  [1m[36mCocktail Load (0.4ms)[0m  [1mSELECT  "cocktails".* FROM "cocktails" WHERE "cocktails"."id" = $1 LIMIT 1[0m  [["id", 10]]
+  Rendered cocktails/_form_cocktail.html.erb (1.5ms)
+  Rendered cocktails/edit.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 359ms (Views: 357.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/cocktails" for ::1 at 2015-02-21 18:06:22 +0100
+Processing by CocktailsController#index as HTML
+  [1m[35mCocktail Load (1.3ms)[0m  SELECT "cocktails".* FROM "cocktails"
+  Rendered cocktails/_list_cocktails.html.erb (3.5ms)
+  Rendered cocktails/index.html.erb within layouts/application (12.4ms)
+Completed 200 OK in 301ms (Views: 298.3ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/cocktails/10" for ::1 at 2015-02-21 18:06:23 +0100
+Processing by CocktailsController#show as HTML
+  Parameters: {"id"=>"10"}
+  [1m[36mCocktail Load (4.1ms)[0m  [1mSELECT  "cocktails".* FROM "cocktails" WHERE "cocktails"."id" = $1 LIMIT 1[0m  [["id", 10]]
+  [1m[35mDose Load (0.9ms)[0m  SELECT "doses".* FROM "doses" WHERE "doses"."cocktail_id" = $1  [["cocktail_id", 10]]
+  [1m[36mIngredient Load (3.0ms)[0m  [1mSELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1[0m  [["id", 6]]
+  [1m[35mIngredient Load (5.7ms)[0m  SELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1  [["id", 5]]
+  [1m[36mIngredient Load (0.4ms)[0m  [1mSELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1[0m  [["id", 9]]
+  [1m[35mIngredient Load (0.3ms)[0m  SELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1  [["id", 15]]
+  [1m[36mIngredient Load (0.2ms)[0m  [1mSELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1[0m  [["id", 4]]
+  Rendered cocktails/_list_ingredients.html.erb (18.7ms)
+  Rendered cocktails/show.html.erb within layouts/application (30.7ms)
+Completed 200 OK in 435ms (Views: 418.3ms | ActiveRecord: 14.5ms)
+
+
+Started DELETE "/cocktails/10/doses/5" for ::1 at 2015-02-21 18:06:27 +0100
+Processing by DosesController#destroy as */*
+  Parameters: {"cocktail_id"=>"10", "id"=>"5"}
+  [1m[35mCocktail Load (0.3ms)[0m  SELECT  "cocktails".* FROM "cocktails" WHERE "cocktails"."id" = $1 LIMIT 1  [["id", 10]]
+  [1m[36mDose Load (0.3ms)[0m  [1mSELECT  "doses".* FROM "doses" WHERE "doses"."cocktail_id" = $1 AND "doses"."id" = $2 LIMIT 1[0m  [["cocktail_id", 10], ["id", 5]]
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.3ms)[0m  [1mDELETE FROM "doses" WHERE "doses"."id" = $1[0m  [["id", 5]]
+  [1m[35m (0.4ms)[0m  COMMIT
+Redirected to http://localhost:3000/cocktails/10
+Completed 302 Found in 21ms (ActiveRecord: 1.4ms)
+
+
+Started GET "/cocktails/10" for ::1 at 2015-02-21 18:06:28 +0100
+Processing by CocktailsController#show as */*
+  Parameters: {"id"=>"10"}
+  [1m[36mCocktail Load (0.3ms)[0m  [1mSELECT  "cocktails".* FROM "cocktails" WHERE "cocktails"."id" = $1 LIMIT 1[0m  [["id", 10]]
+  [1m[35mDose Load (0.4ms)[0m  SELECT "doses".* FROM "doses" WHERE "doses"."cocktail_id" = $1  [["cocktail_id", 10]]
+  [1m[36mIngredient Load (0.2ms)[0m  [1mSELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1[0m  [["id", 5]]
+  [1m[35mIngredient Load (0.2ms)[0m  SELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1  [["id", 9]]
+  [1m[36mIngredient Load (0.2ms)[0m  [1mSELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1[0m  [["id", 15]]
+  [1m[35mIngredient Load (0.2ms)[0m  SELECT  "ingredients".* FROM "ingredients" WHERE "ingredients"."id" = $1 LIMIT 1  [["id", 4]]
+  Rendered cocktails/_list_ingredients.html.erb (6.5ms)
+  Rendered cocktails/show.html.erb within layouts/application (69.8ms)
+Completed 200 OK in 419ms (Views: 397.6ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/cocktails" for ::1 at 2015-02-21 18:06:30 +0100
+Processing by CocktailsController#index as HTML
+  [1m[36mCocktail Load (1.9ms)[0m  [1mSELECT "cocktails".* FROM "cocktails"[0m
+  Rendered cocktails/_list_cocktails.html.erb (4.1ms)
+  Rendered cocktails/index.html.erb within layouts/application (16.4ms)
+Completed 200 OK in 346ms (Views: 343.1ms | ActiveRecord: 1.9ms)
