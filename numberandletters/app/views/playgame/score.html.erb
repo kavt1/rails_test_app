@@ -1,0 +1,15 @@
+<h1>Game results</h1>
+<div class='results-box'>
+  <p class='title'>Now your results!</p>
+  <div class='results'>
+    <p class='text'><span class='text_title'> Your word: </span><%= @your_word %></p>
+    <p class='text'><span class='text_title'> Time taken: </span><%= @time_taken %></p>
+    <p class='text'><span class='text_title'> Translation: </span><%= @translation %></p>
+    <p class='text'><span class='text_title'> Your score: </span><%= @score %></p>
+    <p class='text'><span class='text_title'> Message: </span><%= @message %></p>
+  </div>
+</div>
+
+<div class='footer'>
+  <%= link_to 'New game', game_path %>
+</div>

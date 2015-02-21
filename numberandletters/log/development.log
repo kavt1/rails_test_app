@@ -1,0 +1,3636 @@
+
+
+Started GET "/" for ::1 at 2015-02-16 12:15:22 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 3085ms (Views: 3059.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-16 12:15:26 +0100
+
+
+Started GET "/assets/playgame-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 12:15:26 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:15:26 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:15:26 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:15:26 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:15:27 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:15:27 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:20:15 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 78ms (Views: 76.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 12:20:25 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 132ms (Views: 130.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 12:20:38 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 87ms (Views: 86.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 12:20:40 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 71ms (Views: 70.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 12:20:40 +0100
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-16 12:20:40 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:20:40 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:20:40 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:20:40 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:20:40 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:20:40 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:20:57 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 73ms (Views: 72.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 12:20:57 +0100
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-16 12:20:57 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:20:57 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:20:57 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:20:57 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:20:57 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:20:57 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:23:18 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 288ms (Views: 245.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-16 12:23:20 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:23:20 +0100
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-16 12:23:20 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:23:20 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:23:20 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:23:20 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:23:20 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:24:14 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 172ms (Views: 171.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:24:14 +0100
+
+
+Started GET "/assets/application-1dcc686652c874695394ca011d61f080.css?body=1" for ::1 at 2015-02-16 12:24:14 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:24:14 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:24:14 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:24:14 +0100
+
+
+Started GET "/assets/playgame-624df86f2f31b9bc82144f44689ac41c.css?body=1" for ::1 at 2015-02-16 12:24:14 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:24:14 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:24:20 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 113ms (Views: 111.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-3dbac612ef4dbb0f23248c70aa8dd1fe.css?body=1" for ::1 at 2015-02-16 12:24:20 +0100
+
+
+Started GET "/assets/application-5162ae79b5309ad63691ac4198f1b972.css?body=1" for ::1 at 2015-02-16 12:24:20 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:24:20 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:24:20 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:24:20 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:24:20 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:24:20 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:24:35 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 153ms (Views: 152.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-5ec24626f75430ba3aae24e6b485ada2.css?body=1" for ::1 at 2015-02-16 12:24:36 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:24:36 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:24:36 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:24:36 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:24:36 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:24:36 +0100
+
+
+Started GET "/assets/playgame-5fb2d6b15c3781cc6247af2ebe613351.css?body=1" for ::1 at 2015-02-16 12:24:36 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:25:06 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 118ms (Views: 117.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-d84524709564322aaa74afb15a8edc9d.css?body=1" for ::1 at 2015-02-16 12:25:06 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:25:06 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:25:06 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:25:06 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:25:06 +0100
+
+
+Started GET "/assets/application-29256db69639cd38076de55d3e489ab9.css?body=1" for ::1 at 2015-02-16 12:25:06 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:25:06 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:26:01 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 125ms (Views: 124.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-2ad27fd1533f2cfaf7da4c1e80a31f84.css?body=1" for ::1 at 2015-02-16 12:26:01 +0100
+
+
+Started GET "/assets/application-f22fe1de1c721cdf35ac1622041d0924.css?body=1" for ::1 at 2015-02-16 12:26:01 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:26:01 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:26:01 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:26:01 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:26:01 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:26:01 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:27:12 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 112ms (Views: 110.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-2ad27fd1533f2cfaf7da4c1e80a31f84.css?body=1" for ::1 at 2015-02-16 12:27:12 +0100
+
+
+Started GET "/assets/application-f22fe1de1c721cdf35ac1622041d0924.css?body=1" for ::1 at 2015-02-16 12:27:12 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:27:12 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:27:12 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:27:12 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:27:12 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:27:12 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:32:52 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 67ms (Views: 66.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:32:52 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:32:52 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:32:52 +0100
+
+
+Started GET "/assets/playgame-2ad27fd1533f2cfaf7da4c1e80a31f84.css?body=1" for ::1 at 2015-02-16 12:32:52 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:32:52 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:32:52 +0100
+
+
+Started GET "/assets/application-f22fe1de1c721cdf35ac1622041d0924.css?body=1" for ::1 at 2015-02-16 12:32:52 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:33:15 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 99ms (Views: 97.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-bb1b24e83e77342e2f7fb2bae76df8a8.css?body=1" for ::1 at 2015-02-16 12:33:15 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:33:15 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:33:15 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:33:15 +0100
+
+
+Started GET "/assets/application-c9e66afd0a4ff69d5a15408819dae41f.css?body=1" for ::1 at 2015-02-16 12:33:15 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:33:15 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:33:15 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:33:49 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 136ms (Views: 135.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-ed8d528d51d12ac95937386c48ba949f.css?body=1" for ::1 at 2015-02-16 12:33:50 +0100
+
+
+Started GET "/assets/application-d8e92647b48027a37340330e7f0244c8.css?body=1" for ::1 at 2015-02-16 12:33:50 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:33:50 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:33:50 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:33:50 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:33:50 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:33:50 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:34:29 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 126ms (Views: 125.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-893e089d1c6cd7b27c8b2d7569468cb9.css?body=1" for ::1 at 2015-02-16 12:34:29 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:34:29 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:34:29 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:34:29 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:34:29 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:34:29 +0100
+
+
+Started GET "/assets/playgame-a713e8e29694d713e02ca3535284b2c1.css?body=1" for ::1 at 2015-02-16 12:34:29 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:34:39 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 69ms (Views: 67.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-a713e8e29694d713e02ca3535284b2c1.css?body=1" for ::1 at 2015-02-16 12:34:39 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:34:39 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:34:39 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:34:39 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:34:39 +0100
+
+
+Started GET "/assets/application-893e089d1c6cd7b27c8b2d7569468cb9.css?body=1" for ::1 at 2015-02-16 12:34:39 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:34:39 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:34:41 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 65ms (Views: 64.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-a713e8e29694d713e02ca3535284b2c1.css?body=1" for ::1 at 2015-02-16 12:34:41 +0100
+
+
+Started GET "/assets/application-893e089d1c6cd7b27c8b2d7569468cb9.css?body=1" for ::1 at 2015-02-16 12:34:41 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:34:41 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:34:41 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:34:41 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:34:41 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:34:41 +0100
+
+
+Started GET "/score?query=" for ::1 at 2015-02-16 12:34:53 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>""}
+  Rendered playgame/score.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 119ms (Views: 117.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-a713e8e29694d713e02ca3535284b2c1.css?body=1" for ::1 at 2015-02-16 12:34:53 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:34:53 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:34:53 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:34:53 +0100
+
+
+Started GET "/assets/application-893e089d1c6cd7b27c8b2d7569468cb9.css?body=1" for ::1 at 2015-02-16 12:34:53 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:34:53 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:34:53 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:36:46 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 136ms (Views: 134.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-a713e8e29694d713e02ca3535284b2c1.css?body=1" for ::1 at 2015-02-16 12:36:46 +0100
+
+
+Started GET "/assets/application-893e089d1c6cd7b27c8b2d7569468cb9.css?body=1" for ::1 at 2015-02-16 12:36:46 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:36:46 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:36:46 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:36:46 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:36:46 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:36:46 +0100
+
+
+Started GET "/score?query=asdasd" for ::1 at 2015-02-16 12:36:48 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd"}
+  Rendered playgame/score.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 83ms (Views: 82.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-a713e8e29694d713e02ca3535284b2c1.css?body=1" for ::1 at 2015-02-16 12:36:48 +0100
+
+
+Started GET "/assets/application-893e089d1c6cd7b27c8b2d7569468cb9.css?body=1" for ::1 at 2015-02-16 12:36:48 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:36:48 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:36:48 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:36:48 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:36:48 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:36:48 +0100
+
+
+Started GET "/score?query=asdasd" for ::1 at 2015-02-16 12:37:59 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 190ms (Views: 188.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-51d098ad46aa9eb2ef90486399aaa072.css?body=1" for ::1 at 2015-02-16 12:37:59 +0100
+
+
+Started GET "/assets/application-a12f81b277c4b5e67264b9a72312d27a.css?body=1" for ::1 at 2015-02-16 12:38:00 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:38:00 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:38:00 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:38:00 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:38:00 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:38:00 +0100
+
+
+Started GET "/score?query=asdasd" for ::1 at 2015-02-16 12:38:18 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 100ms (Views: 99.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-42f0e08ab645a046d8460f8591ba802d.css?body=1" for ::1 at 2015-02-16 12:38:18 +0100
+
+
+Started GET "/assets/application-f6e363613f6896f08975a885c82a6ca1.css?body=1" for ::1 at 2015-02-16 12:38:18 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:38:19 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:38:19 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:38:19 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:38:19 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:38:19 +0100
+
+
+Started GET "/score?query=asdasd" for ::1 at 2015-02-16 12:38:37 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 131ms (Views: 129.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-c8c1073b4f0e1df9cc90bc67ba38aa24.css?body=1" for ::1 at 2015-02-16 12:38:37 +0100
+
+
+Started GET "/assets/application-0e434e8690837b0f7c8ae0be0a1925ee.css?body=1" for ::1 at 2015-02-16 12:38:38 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:38:38 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:38:38 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:38:38 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:38:38 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:38:38 +0100
+
+
+Started GET "/score?query=asdasd" for ::1 at 2015-02-16 12:39:27 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd"}
+  Rendered playgame/score.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 123ms (Views: 121.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-899bb3a0a59a3b8284f28f8be0e24576.css?body=1" for ::1 at 2015-02-16 12:39:28 +0100
+
+
+Started GET "/assets/application-c0bed492a552ac282f85c2e35dded173.css?body=1" for ::1 at 2015-02-16 12:39:28 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:39:28 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:39:28 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:39:28 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:39:28 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:39:28 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:39:31 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 82ms (Views: 81.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:39:32 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:39:32 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:39:32 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:39:32 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:39:32 +0100
+
+
+Started GET "/score?query=asdasd" for ::1 at 2015-02-16 12:39:33 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 127ms (Views: 126.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:39:34 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:39:34 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:39:34 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:39:34 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:39:34 +0100
+
+
+Started GET "/score?query=asdasd" for ::1 at 2015-02-16 12:39:57 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 147ms (Views: 146.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-dd61ae3a4cfda1598276c0b7532696a5.css?body=1" for ::1 at 2015-02-16 12:39:57 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:39:57 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:39:57 +0100
+
+
+Started GET "/assets/application-ae0175c3048cc7d10d7c6f8f28d10098.css?body=1" for ::1 at 2015-02-16 12:39:57 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:39:57 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:39:57 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:39:57 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:43:30 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 264ms (Views: 262.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-0c80f477695dd5f5372b69eb4c2ad6c6.css?body=1" for ::1 at 2015-02-16 12:43:30 +0100
+
+
+Started GET "/assets/application-6d84c091e97b3d5c233ed7ee82e71744.css?body=1" for ::1 at 2015-02-16 12:43:30 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:43:30 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:43:30 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:43:30 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:43:30 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:43:30 +0100
+
+
+Started GET "/score?query=asdasd+asdas" for ::1 at 2015-02-16 12:43:33 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd asdas"}
+  Rendered playgame/score.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 101ms (Views: 100.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:43:33 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:43:33 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:43:33 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:43:33 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:43:33 +0100
+
+
+Started GET "/score?query=asdasd+asdas" for ::1 at 2015-02-16 12:44:08 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd asdas"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 91ms (Views: 90.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-0c80f477695dd5f5372b69eb4c2ad6c6.css?body=1" for ::1 at 2015-02-16 12:44:08 +0100
+
+
+Started GET "/assets/application-6d84c091e97b3d5c233ed7ee82e71744.css?body=1" for ::1 at 2015-02-16 12:44:08 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:44:09 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:44:09 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:44:09 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:44:09 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:44:09 +0100
+
+
+Started GET "/score?query=asdasd+asdas" for ::1 at 2015-02-16 12:45:20 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd asdas"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 167ms (Views: 166.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 12:45:21 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:45:21 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:45:21 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:45:21 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:45:21 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:45:21 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 12:45:21 +0100
+
+
+Started GET "/score?query=asdasd+asdas" for ::1 at 2015-02-16 12:45:22 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd asdas"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 109ms (Views: 104.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 12:45:22 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 12:45:22 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:45:22 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:45:22 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:45:22 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:45:22 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:45:22 +0100
+
+
+Started GET "/score?query=asdasd+asdas" for ::1 at 2015-02-16 12:49:07 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd asdas"}
+  Rendered playgame/score.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 81ms (Views: 80.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 12:49:07 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 12:49:07 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:49:07 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:49:07 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:49:07 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:49:07 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:49:07 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:51:59 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 80ms (Views: 78.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:51:59 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:51:59 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:51:59 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 12:51:59 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:51:59 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:51:59 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 12:51:59 +0100
+
+
+Started GET "/score?query=asdas+asdasd&start_time=" for ::1 at 2015-02-16 12:52:03 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdas asdasd", "start_time"=>""}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 76ms (Views: 75.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:52:04 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:52:04 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:52:04 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:52:04 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:52:04 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:54:17 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 68ms (Views: 66.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:54:17 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:54:17 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:54:17 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:54:17 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:54:17 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:55:28 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 95ms (Views: 94.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 12:55:28 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 12:55:28 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:55:28 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:55:28 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:55:28 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:55:28 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:55:28 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:55:50 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 90ms (Views: 88.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 12:55:50 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:55:50 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:55:50 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:55:50 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:55:50 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:55:50 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 12:55:50 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:57:36 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 95ms (Views: 90.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 12:57:37 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:57:37 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:57:37 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:57:37 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:57:37 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:57:37 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 12:57:37 +0100
+
+
+Started GET "/score?query=asdads+dasd&start_time=" for ::1 at 2015-02-16 12:57:40 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdads dasd", "start_time"=>""}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 84ms (Views: 83.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:57:40 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:57:40 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 12:57:40 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 12:57:40 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:57:40 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:57:40 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:57:40 +0100
+
+
+Started GET "/score?query=&start_time=" for ::1 at 2015-02-16 12:57:44 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"", "start_time"=>""}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 75ms (Views: 70.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 12:57:44 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 12:57:44 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:57:44 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:57:44 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:57:44 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:57:44 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:57:44 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 12:58:46 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 95ms (Views: 94.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 12:58:46 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 12:58:46 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 12:58:46 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 12:58:46 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 12:58:46 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 12:58:46 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 12:58:46 +0100
+
+
+Started GET "/score?query=asdasd&start_time=2015-02-16+12%3A58%3A46+%2B0100" for ::1 at 2015-02-16 13:01:20 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd", "start_time"=>"2015-02-16 12:58:46 +0100"}
+Completed 500 Internal Server Error in 2ms
+
+TypeError (can't convert nil into an exact number):
+  app/controllers/playgame_controller.rb:11:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (8.3ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.8ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (184.3ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 13:01:57 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 76ms (Views: 74.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 13:01:57 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 13:01:57 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 13:01:57 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 13:01:57 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 13:01:57 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 13:01:57 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 13:01:57 +0100
+
+
+Started GET "/score?query=asdasd+&start_time=2015-02-16+13%3A01%3A57+%2B0100" for ::1 at 2015-02-16 13:01:59 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd ", "start_time"=>"2015-02-16 13:01:57 +0100"}
+Completed 500 Internal Server Error in 2ms
+
+TypeError (can't convert String into an exact number):
+  app/controllers/playgame_controller.rb:11:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (12.4ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.4ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.6ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (186.2ms)
+
+
+Started GET "/score?query=asdasd+&start_time=2015-02-16+13%3A01%3A57+%2B0100" for ::1 at 2015-02-16 13:03:12 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd ", "start_time"=>"2015-02-16 13:01:57 +0100"}
+Completed 500 Internal Server Error in 32ms
+
+TypeError (can't convert Date into an exact number):
+  app/controllers/playgame_controller.rb:11:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (10.2ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (165.7ms)
+
+
+Started GET "/score?query=asdasd+&start_time=2015-02-16+13%3A01%3A57+%2B0100" for ::1 at 2015-02-16 13:04:19 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd ", "start_time"=>"2015-02-16 13:01:57 +0100"}
+Completed 500 Internal Server Error in 41ms
+
+NoMethodError (undefined method `to_i' for Mon, 16 Feb 2015:Date):
+  app/controllers/playgame_controller.rb:9:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (9.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.6ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.8ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (171.8ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 13:05:10 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 128ms (Views: 127.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 13:05:10 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 13:05:10 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 13:05:10 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 13:05:10 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 13:05:10 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 13:05:10 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 13:05:10 +0100
+
+
+Started GET "/score?query=asdasd+asd&start_time=2015-02-16+13%3A05%3A10+%2B0100" for ::1 at 2015-02-16 13:05:12 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd asd", "start_time"=>"2015-02-16 13:05:10 +0100"}
+Completed 500 Internal Server Error in 2ms
+
+TypeError (can't convert Date into an exact number):
+  app/controllers/playgame_controller.rb:13:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (10.2ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.4ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.6ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (192.9ms)
+
+
+Started GET "/score?query=asdasd+asd&start_time=2015-02-16+13%3A05%3A10+%2B0100" for ::1 at 2015-02-16 13:05:38 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd asd", "start_time"=>"2015-02-16 13:05:10 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 109ms (Views: 107.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 13:05:39 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 13:05:39 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 13:05:39 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 13:05:39 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 13:05:39 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 13:05:39 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 13:05:39 +0100
+
+
+Started GET "/score?query=asdasd&start_time=2015-02-16+13%3A05%3A10+%2B0100" for ::1 at 2015-02-16 13:06:16 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd", "start_time"=>"2015-02-16 13:05:10 +0100"}
+Completed 500 Internal Server Error in 2ms
+
+TypeError (no implicit conversion of Date into String):
+  app/controllers/playgame_controller.rb:11:in `+'
+  app/controllers/playgame_controller.rb:11:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (10.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (191.1ms)
+
+
+Started GET "/score?query=asdasd&start_time=2015-02-16+13%3A05%3A10+%2B0100" for ::1 at 2015-02-16 13:06:46 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd", "start_time"=>"2015-02-16 13:05:10 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 87ms (Views: 85.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 13:06:46 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 13:06:46 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 13:06:46 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 13:06:46 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 13:06:46 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 13:06:46 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 13:06:46 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 13:07:17 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 91ms (Views: 90.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 13:07:17 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 13:07:17 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 13:07:17 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 13:07:17 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 13:07:17 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 13:07:17 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 13:07:17 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 13:07:21 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 74ms (Views: 73.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 13:07:21 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 13:07:21 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 13:07:21 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 13:07:21 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 13:07:21 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 13:07:21 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 13:07:21 +0100
+
+
+Started GET "/score?query=234sad+&start_time=2015-02-16+13%3A07%3A21+%2B0100" for ::1 at 2015-02-16 13:08:02 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"234sad ", "start_time"=>"2015-02-16 13:07:21 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 73ms (Views: 72.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 13:08:02 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 13:08:02 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 13:08:02 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 13:08:02 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 13:08:02 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 13:08:02 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 13:08:02 +0100
+
+
+Started GET "/score?query=asdas&start_time=2015-02-16+13%3A07%3A21+%2B0100" for ::1 at 2015-02-16 13:09:06 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdas", "start_time"=>"2015-02-16 13:07:21 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 81ms (Views: 79.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 13:09:06 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 13:09:06 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 13:09:06 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 13:09:06 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 13:09:07 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 13:09:07 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 13:09:07 +0100
+
+
+Started GET "/score?query=asdas&start_time=2015-02-16+13%3A07%3A21+%2B0100" for ::1 at 2015-02-16 14:10:05 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdas", "start_time"=>"2015-02-16 13:07:21 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 157ms (Views: 156.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:10:05 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:10:05 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:10:05 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:10:05 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:10:05 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:10:05 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:10:05 +0100
+
+
+Started GET "/score?query=asdas&start_time=2015-02-16+13%3A07%3A21+%2B0100" for ::1 at 2015-02-16 14:10:44 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdas", "start_time"=>"2015-02-16 13:07:21 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 77ms (Views: 76.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:10:44 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:10:44 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:10:44 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:10:44 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:10:44 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:10:44 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:10:44 +0100
+
+
+Started GET "/score?query=asdas&start_time=2015-02-16+13%3A07%3A21+%2B0100" for ::1 at 2015-02-16 14:12:51 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdas", "start_time"=>"2015-02-16 13:07:21 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 79ms (Views: 77.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:12:52 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:12:52 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:12:52 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:12:52 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:12:52 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:12:52 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:12:52 +0100
+
+
+Started GET "/score?query=asdas&start_time=2015-02-16+13%3A07%3A21+%2B0100" for ::1 at 2015-02-16 14:12:54 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdas", "start_time"=>"2015-02-16 13:07:21 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 78ms (Views: 77.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:12:55 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:12:55 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:12:55 +0100
+
+
+Started GET "/score?query=asdass&start_time=2015-02-16+13%3A07%3A21+%2B0100" for ::1 at 2015-02-16 14:13:21 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdass", "start_time"=>"2015-02-16 13:07:21 +0100"}
+Completed 500 Internal Server Error in 2ms
+
+TypeError (no implicit conversion of Class into String):
+  app/controllers/playgame_controller.rb:11:in `+'
+  app/controllers/playgame_controller.rb:11:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (9.2ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.9ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.9ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (171.9ms)
+
+
+Started GET "/score?query=asdassasdas&start_time=2015-02-16+13%3A07%3A21+%2B0100" for ::1 at 2015-02-16 14:13:35 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdassasdas", "start_time"=>"2015-02-16 13:07:21 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 84ms (Views: 82.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:13:35 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:13:35 +0100
+
+
+Started GET "/score?query=asdassasdassad&start_time=2015-02-16+13%3A07%3A21+%2B0100" for ::1 at 2015-02-16 14:14:08 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdassasdassad", "start_time"=>"2015-02-16 13:07:21 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 80ms (Views: 79.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:14:08 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:14:08 +0100
+
+
+Started GET "/score?query=asdassasdassad&start_time=2015-02-16+13%3A07%3A21+%2B0100" for ::1 at 2015-02-16 14:15:32 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdassasdassad", "start_time"=>"2015-02-16 13:07:21 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 140ms (Views: 106.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:15:32 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:15:32 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:15:32 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:15:32 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:15:32 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:15:32 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:15:32 +0100
+
+
+Started GET "/score?query=asdassaasdsdassad&start_time=2015-02-16+13%3A07%3A21+%2B0100" for ::1 at 2015-02-16 14:16:13 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdassaasdsdassad", "start_time"=>"2015-02-16 13:07:21 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 92ms (Views: 86.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:16:14 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:16:14 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:16:14 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:16:14 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:16:14 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:16:14 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:16:14 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:17:53 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 106ms (Views: 102.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:17:53 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:17:53 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:17:53 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:17:53 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:17:53 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:17:53 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:17:53 +0100
+
+
+Started GET "/score?query=asd&start_time=2015-02-16+14%3A17%3A53+%2B0100" for ::1 at 2015-02-16 14:17:57 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asd", "start_time"=>"2015-02-16 14:17:53 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 79ms (Views: 77.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:17:57 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:17:57 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:17:57 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:17:57 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:17:57 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:17:57 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:17:57 +0100
+
+
+Started GET "/score?query=asd&start_time=2015-02-16+14%3A17%3A53+%2B0100" for ::1 at 2015-02-16 14:18:02 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asd", "start_time"=>"2015-02-16 14:17:53 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 118ms (Views: 117.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:18:02 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:18:02 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:18:02 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:18:02 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:18:02 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:18:02 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:18:02 +0100
+
+
+Started GET "/score?query=asdasda&start_time=2015-02-16+14%3A17%3A53+%2B0100" for ::1 at 2015-02-16 14:18:05 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasda", "start_time"=>"2015-02-16 14:17:53 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 98ms (Views: 97.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:18:05 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:18:05 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:18:05 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:18:05 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:18:05 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:18:05 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:18:05 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:18:17 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 81ms (Views: 80.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:18:17 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:18:17 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:18:17 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:18:17 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:18:17 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:18:17 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:18:17 +0100
+
+
+Started GET "/score?query=asd+asd&start_time=2015-02-16+14%3A18%3A17+%2B0100" for ::1 at 2015-02-16 14:18:19 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asd asd", "start_time"=>"2015-02-16 14:18:17 +0100"}
+  Rendered playgame/score.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 81ms (Views: 79.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:18:19 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:18:19 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:18:19 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:18:19 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:18:19 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:18:19 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:18:19 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:18:39 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 81ms (Views: 79.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:18:39 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:18:39 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:18:39 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:18:39 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:18:39 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:18:39 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:18:39 +0100
+
+
+Started GET "/score?query=asd+asd&start_time=2015-02-16T14%3A18%3A39%2B01%3A00" for ::1 at 2015-02-16 14:18:41 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asd asd", "start_time"=>"2015-02-16T14:18:39+01:00"}
+  Rendered playgame/score.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 84ms (Views: 83.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:18:41 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:18:41 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:18:41 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:18:41 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:18:41 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:18:41 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:18:41 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:20:57 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 87ms (Views: 85.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:20:57 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:20:57 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:20:57 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:20:57 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:20:57 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:20:57 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:20:57 +0100
+
+
+Started GET "/score?query=get&start_time=2015-02-16T14%3A20%3A57%2B01%3A00" for ::1 at 2015-02-16 14:21:03 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"get", "start_time"=>"2015-02-16T14:20:57+01:00"}
+Completed 500 Internal Server Error in 69ms
+
+Errno::ENOENT (No such file or directory @ rb_sysopen - http://api.wordreference.com/0.8/80143/json/enfr/get):
+  app/controllers/playgame_controller.rb:20:in `initialize'
+  app/controllers/playgame_controller.rb:20:in `open'
+  app/controllers/playgame_controller.rb:20:in `get_translation'
+  app/controllers/playgame_controller.rb:13:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (11.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.2ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.6ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (178.5ms)
+
+
+Started GET "/score?query=get&start_time=2015-02-16T14%3A20%3A57%2B01%3A00" for ::1 at 2015-02-16 14:21:06 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"get", "start_time"=>"2015-02-16T14:20:57+01:00"}
+Completed 500 Internal Server Error in 1ms
+
+Errno::ENOENT (No such file or directory @ rb_sysopen - http://api.wordreference.com/0.8/80143/json/enfr/get):
+  app/controllers/playgame_controller.rb:20:in `initialize'
+  app/controllers/playgame_controller.rb:20:in `open'
+  app/controllers/playgame_controller.rb:20:in `get_translation'
+  app/controllers/playgame_controller.rb:13:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (10.4ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (5.2ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.9ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (168.9ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 14:22:23 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 83ms (Views: 82.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:22:23 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:22:23 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:22:23 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:22:23 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:22:23 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:22:23 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:22:23 +0100
+
+
+Started GET "/score?query=dasdas&start_time=2015-02-16T14%3A22%3A23%2B01%3A00" for ::1 at 2015-02-16 14:22:26 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"dasdas", "start_time"=>"2015-02-16T14:22:23+01:00"}
+Completed 500 Internal Server Error in 2ms
+
+Errno::ENOENT (No such file or directory @ rb_sysopen - http://api.wordreference.com/0.8/80143/json/enfr/dasdas):
+  app/controllers/playgame_controller.rb:20:in `initialize'
+  app/controllers/playgame_controller.rb:20:in `open'
+  app/controllers/playgame_controller.rb:20:in `get_translation'
+  app/controllers/playgame_controller.rb:13:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (13.2ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.4ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (209.8ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 14:26:58 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 118ms (Views: 117.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:26:59 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:26:59 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:26:59 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:26:59 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:26:59 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:26:59 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:26:59 +0100
+
+
+Started GET "/score?query=sadas+asd&start_time=2015-02-16T14%3A26%3A59%2B01%3A00" for ::1 at 2015-02-16 14:27:01 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"sadas asd", "start_time"=>"2015-02-16T14:26:59+01:00"}
+Completed 500 Internal Server Error in 3ms
+
+URI::InvalidURIError (bad URI(is not URI?): http://api.wordreference.com/0.8/80143/json/enfr/sadas asd):
+  app/controllers/playgame_controller.rb:23:in `get_translation'
+  app/controllers/playgame_controller.rb:16:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (9.0ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.3ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (169.2ms)
+
+
+Started GET "/score?query=sadas&start_time=2015-02-16T14%3A26%3A59%2B01%3A00" for ::1 at 2015-02-16 14:27:17 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"sadas", "start_time"=>"2015-02-16T14:26:59+01:00"}
+Completed 500 Internal Server Error in 527ms
+
+NameError (undefined local variable or method `result' for #<PlaygameController:0x007f866cca5db0>):
+  app/controllers/playgame_controller.rb:27:in `get_translation'
+  app/controllers/playgame_controller.rb:16:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (9.6ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.6ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (179.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 14:28:56 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 81ms (Views: 80.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=get&start_time=2015-02-16T14%3A28%3A56%2B01%3A00" for ::1 at 2015-02-16 14:29:02 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"get", "start_time"=>"2015-02-16T14:28:56+01:00"}
+  Rendered playgame/score.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 1756ms (Views: 109.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 14:35:15 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 78ms (Views: 76.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=asdasd&start_time=2015-02-16T14%3A35%3A15%2B01%3A00&grid=%5B%22O%22%2C+%22N%22%2C+%22W%22%2C+%22A%22%2C+%22B%22%2C+%22C%22%2C+%22W%22%2C+%22K%22%2C+%22T%22%2C+%22V%22%5D" for ::1 at 2015-02-16 14:35:17 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd", "start_time"=>"2015-02-16T14:35:15+01:00", "grid"=>"[\"O\", \"N\", \"W\", \"A\", \"B\", \"C\", \"W\", \"K\", \"T\", \"V\"]"}
+Completed 500 Internal Server Error in 16ms
+
+NameError (undefined local variable or method `grid' for #<PlaygameController:0x007f8669cd93c0>):
+  app/controllers/playgame_controller.rb:18:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (11.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (5.3ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.5ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (188.8ms)
+
+
+Started GET "/score?query=asdasd&start_time=2015-02-16T14%3A35%3A15%2B01%3A00&grid=%5B%22O%22%2C+%22N%22%2C+%22W%22%2C+%22A%22%2C+%22B%22%2C+%22C%22%2C+%22W%22%2C+%22K%22%2C+%22T%22%2C+%22V%22%5D" for ::1 at 2015-02-16 14:36:05 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd", "start_time"=>"2015-02-16T14:35:15+01:00", "grid"=>"[\"O\", \"N\", \"W\", \"A\", \"B\", \"C\", \"W\", \"K\", \"T\", \"V\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 520ms (Views: 86.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=asdasd&start_time=2015-02-16T14%3A35%3A15%2B01%3A00&grid=%5B%22O%22%2C+%22N%22%2C+%22W%22%2C+%22A%22%2C+%22B%22%2C+%22C%22%2C+%22W%22%2C+%22K%22%2C+%22T%22%2C+%22V%22%5D" for ::1 at 2015-02-16 14:37:08 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd", "start_time"=>"2015-02-16T14:35:15+01:00", "grid"=>"[\"O\", \"N\", \"W\", \"A\", \"B\", \"C\", \"W\", \"K\", \"T\", \"V\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 600ms (Views: 118.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:37:09 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:37:09 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:37:09 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:37:09 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:37:09 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:37:09 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:37:09 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:43:13 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 135ms (Views: 134.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:43:14 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:43:14 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:43:14 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:43:14 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:43:14 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:43:14 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:43:14 +0100
+
+
+Started GET "/score?query=are&start_time=2015-02-16T14%3A43%3A14%2B01%3A00&grid=%5B%22I%22%2C+%22X%22%2C+%22V%22%2C+%22X%22%2C+%22A%22%2C+%22W%22%2C+%22V%22%2C+%22K%22%2C+%22R%22%2C+%22E%22%5D" for ::1 at 2015-02-16 14:43:20 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"are", "start_time"=>"2015-02-16T14:43:14+01:00", "grid"=>"[\"I\", \"X\", \"V\", \"X\", \"A\", \"W\", \"V\", \"K\", \"R\", \"E\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 652ms (Views: 105.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:43:21 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:43:21 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:43:21 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:43:21 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:43:21 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:43:21 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:43:21 +0100
+
+
+Started GET "/score?query=ARE&start_time=2015-02-16T14%3A43%3A14%2B01%3A00&grid=%5B%22I%22%2C+%22X%22%2C+%22V%22%2C+%22X%22%2C+%22A%22%2C+%22W%22%2C+%22V%22%2C+%22K%22%2C+%22R%22%2C+%22E%22%5D" for ::1 at 2015-02-16 14:43:35 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"ARE", "start_time"=>"2015-02-16T14:43:14+01:00", "grid"=>"[\"I\", \"X\", \"V\", \"X\", \"A\", \"W\", \"V\", \"K\", \"R\", \"E\"]"}
+Completed 500 Internal Server Error in 544ms
+
+NoMethodError (undefined method `delete_at' for #<String:0x007f866c698fd0>):
+  app/controllers/playgame_controller.rb:73:in `block in check_input_against_grid'
+  app/controllers/playgame_controller.rb:69:in `check_input_against_grid'
+  app/controllers/playgame_controller.rb:19:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (9.2ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.2ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (3.0ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.4ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (172.9ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 14:43:42 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 87ms (Views: 85.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:43:42 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:43:42 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:43:42 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:43:42 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:43:42 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:43:42 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:43:42 +0100
+
+
+Started GET "/score?query=PAW&start_time=2015-02-16T14%3A43%3A42%2B01%3A00&grid=%5B%22T%22%2C+%22D%22%2C+%22H%22%2C+%22A%22%2C+%22W%22%2C+%22P%22%2C+%22K%22%2C+%22H%22%2C+%22M%22%2C+%22Q%22%5D" for ::1 at 2015-02-16 14:43:52 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"PAW", "start_time"=>"2015-02-16T14:43:42+01:00", "grid"=>"[\"T\", \"D\", \"H\", \"A\", \"W\", \"P\", \"K\", \"H\", \"M\", \"Q\"]"}
+Completed 500 Internal Server Error in 377ms
+
+NoMethodError (undefined method `delete_at' for #<String:0x007f866e43def0>):
+  app/controllers/playgame_controller.rb:73:in `block in check_input_against_grid'
+  app/controllers/playgame_controller.rb:69:in `check_input_against_grid'
+  app/controllers/playgame_controller.rb:19:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (14.1ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.2ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.6ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (175.2ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 14:45:08 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 79ms (Views: 77.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:45:08 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:45:08 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:45:08 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:45:08 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:45:08 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:45:08 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:45:08 +0100
+
+
+Started GET "/score?query=MALE&start_time=2015-02-16T14%3A45%3A08%2B01%3A00&grid=%5B%22W%22%2C+%22L%22%2C+%22E%22%2C+%22X%22%2C+%22V%22%2C+%22H%22%2C+%22Y%22%2C+%22A%22%2C+%22M%22%2C+%22Z%22%5D" for ::1 at 2015-02-16 14:45:16 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"MALE", "start_time"=>"2015-02-16T14:45:08+01:00", "grid"=>"[\"W\", \"L\", \"E\", \"X\", \"V\", \"H\", \"Y\", \"A\", \"M\", \"Z\"]"}
+Completed 500 Internal Server Error in 284ms
+
+NoMethodError (undefined method `delete_at' for #<String:0x007f866ccec580>):
+  app/controllers/playgame_controller.rb:75:in `block in check_input_against_grid'
+  app/controllers/playgame_controller.rb:71:in `check_input_against_grid'
+  app/controllers/playgame_controller.rb:19:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (12.3ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (6.2ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.9ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (180.5ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 14:45:54 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 81ms (Views: 80.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:45:54 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:45:54 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:45:54 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:45:54 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:45:54 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:45:54 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:45:54 +0100
+
+
+Started GET "/score?query=PAD&start_time=2015-02-16T14%3A45%3A54%2B01%3A00&grid=%5B%22H%22%2C+%22M%22%2C+%22T%22%2C+%22J%22%2C+%22T%22%2C+%22Q%22%2C+%22A%22%2C+%22P%22%2C+%22D%22%2C+%22B%22%5D" for ::1 at 2015-02-16 14:46:00 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"PAD", "start_time"=>"2015-02-16T14:45:54+01:00", "grid"=>"[\"H\", \"M\", \"T\", \"J\", \"T\", \"Q\", \"A\", \"P\", \"D\", \"B\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 723ms (Views: 103.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:46:01 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:46:01 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:46:01 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:46:01 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:46:01 +0100
+
+
+Started GET "/score?query=pad&start_time=2015-02-16T14%3A45%3A54%2B01%3A00&grid=%5B%22H%22%2C+%22M%22%2C+%22T%22%2C+%22J%22%2C+%22T%22%2C+%22Q%22%2C+%22A%22%2C+%22P%22%2C+%22D%22%2C+%22B%22%5D" for ::1 at 2015-02-16 14:46:22 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"pad", "start_time"=>"2015-02-16T14:45:54+01:00", "grid"=>"[\"H\", \"M\", \"T\", \"J\", \"T\", \"Q\", \"A\", \"P\", \"D\", \"B\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 601ms (Views: 73.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:46:22 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:47:29 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 90ms (Views: 86.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:47:29 +0100
+
+
+Started GET "/score?query=sdasd&start_time=2015-02-16T14%3A47%3A29%2B01%3A00&grid=%5B%22A%22%2C+%22D%22%2C+%22G%22%2C+%22W%22%2C+%22S%22%2C+%22I%22%2C+%22C%22%2C+%22P%22%2C+%22Q%22%2C+%22C%22%5D" for ::1 at 2015-02-16 14:48:09 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"sdasd", "start_time"=>"2015-02-16T14:47:29+01:00", "grid"=>"[\"A\", \"D\", \"G\", \"W\", \"S\", \"I\", \"C\", \"P\", \"Q\", \"C\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 477ms (Views: 98.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:48:09 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:48:16 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 81ms (Views: 77.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:48:16 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:48:16 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:48:16 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:48:16 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:48:16 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:48:16 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:48:16 +0100
+
+
+Started GET "/score?query=PIG&start_time=2015-02-16T14%3A48%3A16%2B01%3A00&grid=%5B%22M%22%2C+%22S%22%2C+%22I%22%2C+%22J%22%2C+%22R%22%2C+%22G%22%2C+%22P%22%2C+%22A%22%2C+%22I%22%2C+%22V%22%5D" for ::1 at 2015-02-16 14:48:22 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"PIG", "start_time"=>"2015-02-16T14:48:16+01:00", "grid"=>"[\"M\", \"S\", \"I\", \"J\", \"R\", \"G\", \"P\", \"A\", \"I\", \"V\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 564ms (Views: 80.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:48:23 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:48:23 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:48:23 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:48:23 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:48:23 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:48:23 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:48:23 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:50:39 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 92ms (Views: 90.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:50:39 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:50:39 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:50:39 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:50:39 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:50:39 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:50:39 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:50:39 +0100
+
+
+Started GET "/score?query=PIX&start_time=2015-02-16T14%3A50%3A39%2B01%3A00&grid=%5B%22X%22%2C+%22V%22%2C+%22Q%22%2C+%22P%22%2C+%22I%22%2C+%22Q%22%2C+%22L%22%2C+%22F%22%2C+%22C%22%2C+%22U%22%5D" for ::1 at 2015-02-16 14:50:50 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"PIX", "start_time"=>"2015-02-16T14:50:39+01:00", "grid"=>"[\"X\", \"V\", \"Q\", \"P\", \"I\", \"Q\", \"L\", \"F\", \"C\", \"U\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 456ms (Views: 93.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:50:51 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:50:51 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:50:51 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:50:51 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:50:51 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:50:51 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:50:51 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:50:59 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 83ms (Views: 81.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:50:59 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:50:59 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:50:59 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:50:59 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:50:59 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:50:59 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:50:59 +0100
+
+
+Started GET "/score?query=YES&start_time=2015-02-16T14%3A50%3A59%2B01%3A00&grid=%5B%22S%22%2C+%22Y%22%2C+%22Y%22%2C+%22H%22%2C+%22Q%22%2C+%22A%22%2C+%22E%22%2C+%22A%22%2C+%22U%22%2C+%22R%22%5D" for ::1 at 2015-02-16 14:51:04 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"YES", "start_time"=>"2015-02-16T14:50:59+01:00", "grid"=>"[\"S\", \"Y\", \"Y\", \"H\", \"Q\", \"A\", \"E\", \"A\", \"U\", \"R\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1062ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:51:05 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:51:05 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:51:05 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:51:05 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:51:05 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:51:05 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:51:05 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:52:25 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 79ms (Views: 77.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:52:25 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:52:25 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:52:25 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:52:25 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:52:25 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:52:25 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:52:25 +0100
+
+
+Started GET "/score?query=dux&start_time=2015-02-16T14%3A52%3A25%2B01%3A00&grid=%5B%22L%22%2C+%22X%22%2C+%22I%22%2C+%22U%22%2C+%22D%22%2C+%22X%22%2C+%22F%22%2C+%22K%22%2C+%22U%22%2C+%22T%22%5D" for ::1 at 2015-02-16 14:52:39 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"dux", "start_time"=>"2015-02-16T14:52:25+01:00", "grid"=>"[\"L\", \"X\", \"I\", \"U\", \"D\", \"X\", \"F\", \"K\", \"U\", \"T\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 443ms (Views: 79.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:52:40 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:52:40 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:52:40 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:52:40 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:52:40 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:52:40 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:52:40 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:52:50 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 93ms (Views: 91.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:52:50 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:52:50 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:52:50 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:52:50 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:52:50 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:52:50 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:52:50 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:52:53 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 84ms (Views: 83.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:52:53 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:52:53 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:52:53 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:52:53 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:52:53 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:52:53 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:52:53 +0100
+
+
+Started GET "/score?query=GAL&start_time=2015-02-16T14%3A52%3A53%2B01%3A00&grid=%5B%22B%22%2C+%22X%22%2C+%22P%22%2C+%22A%22%2C+%22J%22%2C+%22R%22%2C+%22V%22%2C+%22L%22%2C+%22N%22%2C+%22G%22%5D" for ::1 at 2015-02-16 14:53:10 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"GAL", "start_time"=>"2015-02-16T14:52:53+01:00", "grid"=>"[\"B\", \"X\", \"P\", \"A\", \"J\", \"R\", \"V\", \"L\", \"N\", \"G\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 522ms (Views: 83.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:53:11 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:53:11 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:53:11 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:53:11 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:53:11 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:53:11 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:53:11 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 14:56:07 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 147ms (Views: 146.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:56:07 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:56:07 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:56:07 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:56:07 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:56:07 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:56:07 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:56:07 +0100
+
+
+Started GET "/score?query=FATAL&start_time=2015-02-16T14%3A56%3A07%2B01%3A00&grid=%5B%22T%22%2C+%22H%22%2C+%22U%22%2C+%22L%22%2C+%22J%22%2C+%22N%22%2C+%22X%22%2C+%22F%22%2C+%22A%22%2C+%22A%22%5D" for ::1 at 2015-02-16 14:56:18 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"FATAL", "start_time"=>"2015-02-16T14:56:07+01:00", "grid"=>"[\"T\", \"H\", \"U\", \"L\", \"J\", \"N\", \"X\", \"F\", \"A\", \"A\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 474ms (Views: 93.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 14:58:03 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 118ms (Views: 117.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=LIB&start_time=2015-02-16T14%3A58%3A03%2B01%3A00&grid=%5B%22N%22%2C+%22V%22%2C+%22B%22%2C+%22Y%22%2C+%22I%22%2C+%22M%22%2C+%22D%22%2C+%22J%22%2C+%22L%22%2C+%22F%22%5D" for ::1 at 2015-02-16 14:58:11 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"LIB", "start_time"=>"2015-02-16T14:58:03+01:00", "grid"=>"[\"N\", \"V\", \"B\", \"Y\", \"I\", \"M\", \"D\", \"J\", \"L\", \"F\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 488ms (Views: 99.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 14:58:20 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 92ms (Views: 90.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 14:58:39 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 110ms (Views: 108.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:58:39 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:58:39 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:58:39 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:58:39 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:58:39 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:58:39 +0100
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:58:39 +0100
+
+
+Started GET "/score?query=OR&start_time=2015-02-16T14%3A58%3A39%2B01%3A00&grid=%5B%22Y%22%2C+%22Q%22%2C+%22J%22%2C+%22D%22%2C+%22K%22%2C+%22T%22%2C+%22J%22%2C+%22O%22%2C+%22R%22%2C+%22Z%22%5D" for ::1 at 2015-02-16 14:58:54 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"OR", "start_time"=>"2015-02-16T14:58:39+01:00", "grid"=>"[\"Y\", \"Q\", \"J\", \"D\", \"K\", \"T\", \"J\", \"O\", \"R\", \"Z\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 651ms (Views: 79.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 14:58:55 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 14:58:55 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 14:58:55 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 14:58:55 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 14:58:55 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 14:58:55 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 14:58:55 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 15:00:38 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 161ms (Views: 158.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-15d156f3fa9d760aae12316735d91a07.css?body=1" for ::1 at 2015-02-16 15:00:38 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:00:38 +0100
+
+
+Started GET "/assets/application-4a51fc930871f1658ed185c0ececd951.css?body=1" for ::1 at 2015-02-16 15:00:38 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:00:38 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:00:38 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:00:38 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:00:38 +0100
+
+
+Started GET "/score?query=&start_time=2015-02-16T15%3A00%3A38%2B01%3A00&grid=%5B%22Z%22%2C+%22P%22%2C+%22P%22%2C+%22R%22%2C+%22H%22%2C+%22V%22%2C+%22F%22%2C+%22B%22%2C+%22C%22%2C+%22H%22%5D" for ::1 at 2015-02-16 15:01:06 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"", "start_time"=>"2015-02-16T15:00:38+01:00", "grid"=>"[\"Z\", \"P\", \"P\", \"R\", \"H\", \"V\", \"F\", \"B\", \"C\", \"H\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 1599ms (Views: 102.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 15:02:41 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 93ms (Views: 89.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=IDE&start_time=2015-02-16T15%3A02%3A41%2B01%3A00&grid=%5B%22I%22%2C+%22D%22%2C+%22U%22%2C+%22G%22%2C+%22E%22%2C+%22X%22%2C+%22S%22%2C+%22X%22%2C+%22V%22%2C+%22L%22%5D" for ::1 at 2015-02-16 15:02:53 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"IDE", "start_time"=>"2015-02-16T15:02:41+01:00", "grid"=>"[\"I\", \"D\", \"U\", \"G\", \"E\", \"X\", \"S\", \"X\", \"V\", \"L\"]"}
+  Rendered playgame/score.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 440ms (Views: 91.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:03:05 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 85ms (Views: 84.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=adas&start_time=2015-02-16T15%3A03%3A05%2B01%3A00&grid=%5B%22F%22%2C+%22M%22%2C+%22X%22%2C+%22G%22%2C+%22S%22%2C+%22J%22%2C+%22V%22%2C+%22R%22%2C+%22O%22%2C+%22D%22%5D" for ::1 at 2015-02-16 15:03:07 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"adas", "start_time"=>"2015-02-16T15:03:05+01:00", "grid"=>"[\"F\", \"M\", \"X\", \"G\", \"S\", \"J\", \"V\", \"R\", \"O\", \"D\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 396ms (Views: 79.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 15:05:07 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 256ms (Views: 254.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:05:07 +0100
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:05:07 +0100
+
+
+Started GET "/score?query=asdasd&start_time=2015-02-16T15%3A05%3A07%2B01%3A00&grid=%5B%22Z%22%2C+%22X%22%2C+%22X%22%2C+%22T%22%2C+%22Q%22%2C+%22O%22%2C+%22Z%22%2C+%22I%22%2C+%22W%22%2C+%22C%22%5D" for ::1 at 2015-02-16 15:05:13 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd", "start_time"=>"2015-02-16T15:05:07+01:00", "grid"=>"[\"Z\", \"X\", \"X\", \"T\", \"Q\", \"O\", \"Z\", \"I\", \"W\", \"C\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 538ms (Views: 97.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:05:16 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 103ms (Views: 102.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=asdas&start_time=2015-02-16T15%3A05%3A16%2B01%3A00&grid=%5B%22U%22%2C+%22I%22%2C+%22Y%22%2C+%22I%22%2C+%22G%22%2C+%22I%22%2C+%22C%22%2C+%22A%22%2C+%22Y%22%2C+%22Q%22%5D" for ::1 at 2015-02-16 15:05:25 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdas", "start_time"=>"2015-02-16T15:05:16+01:00", "grid"=>"[\"U\", \"I\", \"Y\", \"I\", \"G\", \"I\", \"C\", \"A\", \"Y\", \"Q\"]"}
+  Rendered playgame/score.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 449ms (Views: 116.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:05:33 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 98ms (Views: 96.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:19:09 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 143ms (Views: 141.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:19:09 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:19:09 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:19:09 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:19:09 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:19:09 +0100
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:19:09 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:19:09 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:19:29 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 89ms (Views: 87.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:19:29 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:19:29 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:19:29 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:19:29 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:19:29 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:19:29 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:19:29 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:19:31 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 89ms (Views: 88.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:19:31 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:19:31 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:19:31 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:19:31 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:19:31 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:19:31 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:19:31 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:19:32 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 79ms (Views: 78.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:19:33 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:19:33 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:19:33 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:19:33 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:19:33 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:19:33 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:19:33 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:20:18 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 80ms (Views: 78.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:20:18 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:20:18 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:20:18 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:20:18 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:20:18 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:20:18 +0100
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:20:18 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 15:20:21 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 100ms (Views: 98.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:20:22 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:20:22 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:20:22 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:20:22 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:20:22 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:20:22 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:20:22 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 15:20:39 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 80ms (Views: 78.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:20:39 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:20:39 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:20:39 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:20:39 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:20:39 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:20:39 +0100
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:20:39 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 15:21:10 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 94ms (Views: 92.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:21:11 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:21:11 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:21:11 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:21:11 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:21:11 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:21:11 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:21:11 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 15:21:29 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 83ms (Views: 81.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:21:29 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:21:29 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:21:29 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:21:29 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:21:29 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:21:29 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:21:29 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 15:22:01 +0100
+Processing by PlaygameController#game as HTML
+Completed 500 Internal Server Error in 2ms
+
+NoMethodError (undefined method `to_a' for "RGXTEEIYMP":String):
+  app/controllers/playgame_controller.rb:7:in `game'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (13.3ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.2ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.7ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (197.8ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 15:23:23 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 160ms (Views: 159.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:23:23 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:23:23 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:23:23 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:23:23 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:23:23 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:23:23 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:23:23 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 15:23:33 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 108ms (Views: 106.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:23:33 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:23:33 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:23:33 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:23:33 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:23:33 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:23:33 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:23:33 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 15:23:38 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 98ms (Views: 96.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:23:38 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:23:38 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:23:38 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:23:38 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:23:38 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:23:38 +0100
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:23:38 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 15:24:41 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 90ms (Views: 88.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:24:41 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:24:41 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:24:41 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:24:41 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:24:41 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:24:41 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:24:41 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 15:24:43 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 76ms (Views: 75.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:24:43 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:24:43 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:24:43 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:24:43 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:24:43 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:24:43 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:24:43 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 15:24:44 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 77ms (Views: 75.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:24:44 +0100
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:24:44 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:24:44 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:24:44 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:24:44 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:24:44 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:24:44 +0100
+
+
+Started GET "/" for ::1 at 2015-02-16 15:25:31 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 90ms (Views: 89.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:25:31 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:25:31 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:25:31 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:25:31 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:25:31 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:25:31 +0100
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:25:31 +0100
+
+
+Started GET "/score?query=JOE&start_time=2015-02-16T15%3A25%3A31%2B01%3A00&grid=HWVQEZWJHO" for ::1 at 2015-02-16 15:25:40 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"JOE", "start_time"=>"2015-02-16T15:25:31+01:00", "grid"=>"HWVQEZWJHO"}
+Completed 500 Internal Server Error in 277ms
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/playgame_controller.rb:38:in `get_translation'
+  app/controllers/playgame_controller.rb:18:in `score'
+
+
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (11.3ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (5.6ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (2.0ms)
+  Rendered /Users/miguelgonzalezmaquieira/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (172.3ms)
+
+
+Started GET "/" for ::1 at 2015-02-16 15:26:58 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 77ms (Views: 74.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:26:58 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:26:58 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:26:58 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:26:58 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:26:58 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:26:58 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:26:58 +0100
+
+
+Started GET "/score?query=IS&start_time=2015-02-16T15%3A26%3A58%2B01%3A00&grid=IWHCMISDFL" for ::1 at 2015-02-16 15:27:14 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"IS", "start_time"=>"2015-02-16T15:26:58+01:00", "grid"=>"IWHCMISDFL"}
+  Rendered playgame/score.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 691ms (Views: 82.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:27:15 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:27:15 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:27:15 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:27:15 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:27:15 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:27:15 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:27:15 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:27:19 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 87ms (Views: 85.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=EYE&start_time=2015-02-16T15%3A27%3A19%2B01%3A00&grid=EYYEKQWPFN" for ::1 at 2015-02-16 15:27:22 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"EYE", "start_time"=>"2015-02-16T15:27:19+01:00", "grid"=>"EYYEKQWPFN"}
+  Rendered playgame/score.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 682ms (Views: 74.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:27:23 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:27:23 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:27:23 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:27:23 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:27:23 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:27:23 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:27:23 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:27:27 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 78ms (Views: 75.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=eqw&start_time=2015-02-16T15%3A27%3A27%2B01%3A00&grid=SHPUQSAHUV" for ::1 at 2015-02-16 15:27:30 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"eqw", "start_time"=>"2015-02-16T15:27:27+01:00", "grid"=>"SHPUQSAHUV"}
+  Rendered playgame/score.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 349ms (Views: 76.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:27:30 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:27:30 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:27:30 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:27:30 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:27:30 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:27:30 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:27:30 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:27:32 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 79ms (Views: 77.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=asdasdasd&start_time=2015-02-16T15%3A27%3A32%2B01%3A00&grid=YBPXOLTTJS" for ::1 at 2015-02-16 15:27:34 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasdasd", "start_time"=>"2015-02-16T15:27:32+01:00", "grid"=>"YBPXOLTTJS"}
+  Rendered playgame/score.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 314ms (Views: 76.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:27:34 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:27:34 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:27:34 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:27:34 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:27:34 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:27:34 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:27:34 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:27:35 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 86ms (Views: 84.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=asdasdasd&start_time=2015-02-16T15%3A27%3A35%2B01%3A00&grid=MHTDGWVSLW" for ::1 at 2015-02-16 15:27:37 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasdasd", "start_time"=>"2015-02-16T15:27:35+01:00", "grid"=>"MHTDGWVSLW"}
+  Rendered playgame/score.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 329ms (Views: 90.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:27:38 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:27:38 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:27:38 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:27:38 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:27:38 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:27:38 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:27:38 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:27:39 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 90ms (Views: 88.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=asdasdasd&start_time=2015-02-16T15%3A27%3A39%2B01%3A00&grid=IUYWWKTHLJ" for ::1 at 2015-02-16 15:27:41 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasdasd", "start_time"=>"2015-02-16T15:27:39+01:00", "grid"=>"IUYWWKTHLJ"}
+  Rendered playgame/score.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 392ms (Views: 87.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:27:41 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:27:41 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:27:41 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:27:41 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:27:41 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:27:41 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:27:41 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:27:43 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 74ms (Views: 72.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=asdasdasd&start_time=2015-02-16T15%3A27%3A43%2B01%3A00&grid=UMRTVPAFGU" for ::1 at 2015-02-16 15:27:45 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasdasd", "start_time"=>"2015-02-16T15:27:43+01:00", "grid"=>"UMRTVPAFGU"}
+  Rendered playgame/score.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 331ms (Views: 83.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:27:46 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:27:46 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:27:46 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:27:46 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:27:46 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:27:46 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:27:46 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:27:58 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 95ms (Views: 92.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=asdasd&start_time=2015-02-16T15%3A27%3A58%2B01%3A00&grid=PRKGXRLXAW" for ::1 at 2015-02-16 15:28:00 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"asdasd", "start_time"=>"2015-02-16T15:27:58+01:00", "grid"=>"PRKGXRLXAW"}
+  Rendered playgame/score.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 503ms (Views: 82.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:28:00 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:28:00 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:28:01 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:28:01 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:28:01 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:28:01 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:28:01 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:28:02 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 87ms (Views: 86.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/score?query=WAK&start_time=2015-02-16T15%3A28%3A02%2B01%3A00&grid=WKAVRRSMMG" for ::1 at 2015-02-16 15:28:06 +0100
+Processing by PlaygameController#score as HTML
+  Parameters: {"query"=>"WAK", "start_time"=>"2015-02-16T15:28:02+01:00", "grid"=>"WKAVRRSMMG"}
+  Rendered playgame/score.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 405ms (Views: 76.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/playgame-08e660cbc83c3fb1fb46debb865fc168.css?body=1" for ::1 at 2015-02-16 15:28:07 +0100
+
+
+Started GET "/assets/application-7e8debd80866dd55a5957fca0aca88ec.css?body=1" for ::1 at 2015-02-16 15:28:07 +0100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-16 15:28:07 +0100
+
+
+Started GET "/assets/turbolinks-da8ddad9c2c5483d4c5c30c1ce325253.js?body=1" for ::1 at 2015-02-16 15:28:07 +0100
+
+
+Started GET "/assets/playgame-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-16 15:28:07 +0100
+
+
+Started GET "/assets/application-79e1233a68e5fdd328d8a2ea17ddef8a.js?body=1" for ::1 at 2015-02-16 15:28:07 +0100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-16 15:28:07 +0100
+
+
+Started GET "/game" for ::1 at 2015-02-16 15:28:47 +0100
+Processing by PlaygameController#game as HTML
+  Rendered playgame/game.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 91ms (Views: 89.7ms | ActiveRecord: 0.0ms)

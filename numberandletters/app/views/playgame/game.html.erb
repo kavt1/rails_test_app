@@ -1,0 +1,19 @@
+<h1>Play Game</h1>
+
+<div class='game-box'>
+  <p class='title'>Welcome to the longest word-game!</p>
+  <p class='text'> Here is your grid : </p>
+  <p class='letters'><%= @letters %></p>
+</div>
+
+<br>
+
+<div class='game-answer'>
+  <form action='/score' method='get'>
+    <label for="answer">Type your best answer</label>
+    <input type="text" id="answer" name="query" placeholder="">
+    <input type="hidden" id="answer" name="start_time" value='<%=  @start_time %>'>
+    <input type="hidden" id="answer" name="grid" value='<%=  @grid %>'>
+    <input type="submit" value="Score!">
+  </form>
+</div>
