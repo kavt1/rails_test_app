@@ -1,0 +1,15 @@
+<h3>Cocktail name: <small> <%= @cocktail.name %> </small></h3>
+<%= form_for [@cocktail, @dose], :html => {:class => "form-vertical center"} do |f| %>
+  <div class="form-group">
+    <%= f.label :ingredient, "Ingredient:" %>
+    <%= select_tag "dose[ingredient_id]", options_from_collection_for_select(@ingredients, "id", "name"), id: "ingredients", :class => "form-control ingredients" %>
+  </div>
+  <div class="form-group">
+    <%= f.label :description, "Description:" %>
+    <%= f.text_field :description, class: "form-control", placeholder: "i.e. 10 oz, 1L etc.." %>
+  </div>
+  <div class="btn-group pull-right" role="group">
+    <%= link_to "Cancel", :back, class: "btn btn-default new_dose_button" %>
+    <button class="btn btn-success new_dose_button">Save</button>
+  </div>
+<% end %>

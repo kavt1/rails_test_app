@@ -1,0 +1,15 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    List of ingredients: <strong><span><%= @cocktail.name %></strong></small>
+  </div>
+  <div class="panel-body" data-cocktail-id="<%= @cocktail.id %>">
+    <%= render 'list_ingredients' %>
+    <div class="btn-group pull-right" role="group">
+      <%= link_to "Cancel", :back, class: "btn btn-default new_cocktail_button" %>
+      <button class="btn btn-primary btn-add-dose" aria-label="Left Align" id="<%= @cocktail.id %> >
+        <span class="glyphicon glyphicon glyphicon-tint" aria-hidden="true"></span> New ingredient
+      </button>
+    </div>
+  </div>
+</div>
+

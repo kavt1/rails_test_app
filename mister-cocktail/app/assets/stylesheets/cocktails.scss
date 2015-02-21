@@ -1,0 +1,15 @@
+.cocktail_list {
+  overflow: scroll;
+  height: 350px;
+  padding: 5px;
+  margin: 10px 0px;
+  border: 1px solid #D0D0D0;
+  border-radius: 4px;
+  .btn {
+    margin-left: 5px;
+  }
+}
+
+.new_cocktail_button {
+  width: 100px;
+}

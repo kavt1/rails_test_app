@@ -1,0 +1,66 @@
+<div class="cocktail_list">
+  <div class="list-group">
+    <% @cocktails.each do |cocktail| %>
+      <a href="/cocktails/<%= cocktail.id %>/edit"  class="list-group-item"><%= cocktail.name %>
+        <div class="pull-right">
+          <span>
+            <button class="btn btn-xs btn-info btn-show" id="<%= cocktail.id %>">
+              <span class="glyphicon glyphicon-list"></span>
+            </button>
+          </span>
+          <span>
+            <button class="btn btn-xs btn-primary btn-add-ingredient" id="<%= cocktail.id %>">
+              <span class="glyphicon glyphicon-tint"></span>
+            </button>
+          </span>
+          <span>
+            <button class="btn btn-xs btn-danger btn-delete" id="<%= cocktail.id %>">
+              <span class="glyphicon glyphicon-trash"></span>
+            </button>
+          </span>
+        </div>
+      </a>
+    <% end %>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $(function() {
+
+    $('.btn-show').click(function(event) {
+      event.preventDefault();
+      var id = event.target.id;
+      var path = '/cocktails/' + id
+      window.location.href = path;
+    });
+
+    $('.btn-add-ingredient').click(function(event) {
+      event.preventDefault();
+      var id = event.target.id;
+      var path = '/cocktails/' + id + '/doses/new';
+      window.location.href = path;
+    });
+
+    $('.btn-delete').click(function(event) {
+      event.preventDefault();
+      var id = event.target.id;
+      var path = '/cocktails/' + id
+      $.ajax({
+        type: 'POST',
+        url: path,
+        data: { "_method": "delete" },
+        async: false,
+        success: function (data, status) {
+          if (status === 'success') {
+            var button = event.target;
+            var elemtToRemove = button.closest('a');
+            elemtToRemove.remove();
+          }
+        },
+        error: function (err, data) {
+          alert("Error " + err.responseText);
+        }
+      });
+    });
+  });
+</script>

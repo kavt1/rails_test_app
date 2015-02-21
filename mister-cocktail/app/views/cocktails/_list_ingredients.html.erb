@@ -1,0 +1,50 @@
+<div class="cocktail_list">
+  <div class="list-group">
+    <% @cocktail.doses.each do |dose| %>
+      <a href="#" class="list-group-item"><%= dose.ingredient.name %> (<%= dose.description %>)
+        <div class="pull-right">
+          <span>
+            <button class="btn btn-xs btn-danger btn-delete-dose" id="<%= dose.id %>">
+              <span class="glyphicon glyphicon-trash"></span>
+            </button>
+          </span>
+        </div>
+      </a>
+    <% end %>
+  </div>
+</div>
+
+<script type="text/javascript">
+  $(function() {
+
+    $('.btn-add-dose').click(function(event) {
+      event.preventDefault();
+      var dose_id = event.target.id;
+      var path = '/cocktails/' + dose_id + '/doses/new';
+      window.location.href = path;
+    });
+
+    $('.btn-delete-dose').click(function(event) {
+      event.preventDefault();
+      var dose_id = event.target.id;
+      var cocktail_id = $('.panel-body').attr('data-cocktail-id');
+      var path = '/cocktails/' + cocktail_id + '/doses/' + dose_id
+      $.ajax({
+        type: 'POST',
+        url: path,
+        data: { "_method": "delete" },
+        async: false,
+        success: function (data, status) {
+          if (status === 'success') {
+            var button = event.target;
+            var elemtToRemove = button.closest('a');
+            elemtToRemove.remove();
+          }
+        },
+        error: function (err, data) {
+          alert("Error " + err.responseText);
+        }
+      });
+    });
+  });
+</script>

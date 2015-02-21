@@ -1,0 +1,35 @@
+<%= form_for @cocktail, :html => {:class => "form-vertical center"}  do |f| %>
+  <div class="form-group">
+    <%= f.label :name, "Cocktail name:" %>
+    <%= f.text_field :name, class: "form-control", placeholder: "i.e. caipirinha" %>
+  </div>
+  <div class="btn-group pull-right" role="group">
+    <%= link_to "Cancel", :back, class: "btn btn-default new_cocktail_button" %>
+    <%= f.button :submit, class: "btn btn-success new_cocktail_button" %>
+  </div>
+<% end %>
+
+<script type="text/javascript">
+  $(function() {
+
+    $('form').validate({
+      rules: {
+        "cocktail[name]": {
+          required: true,
+          minlength: 5
+        }
+      },
+      errorElement: 'span',
+      errorClass: 'help-block',
+      errorPlacement: function(error, element) {
+        if (element.parent('.input-group').length) {
+          error.insertAfter(element.parent());
+        } else {
+          error.insertAfter(element);
+        }
+      }
+    });
+  });
+</script>
+
+
